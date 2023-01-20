@@ -110,3 +110,14 @@ section.sobre{
     cursor: pointer;
     font-family: Verdana;
 }
+
+.img-rodape {
+    margin: 200px 200px;
+    
+
+}
+
+.img-rodape a {
+
+    padding-left: 50px;
+}
